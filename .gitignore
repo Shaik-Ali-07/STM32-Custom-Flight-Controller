@@ -1,0 +1,17 @@
+# MCU Build outputs
+Debug/
+Release/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.su
+*.d
+
+# Toolchain / IDE specific
+.metadata/
+.settings/
+RemoteSystemsTempFiles/
+*.launch
